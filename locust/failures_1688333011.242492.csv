@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+POST,/humhub/index.php?r=user/auth/login,"ConnectionRefusedError(111, 'Connection refused')",1000
+GET,/humhub/index.php?r=dashboard/dashboard/index,"ConnectionRefusedError(111, 'Connection refused')",11665
+POST,/humhub/index.php?r=content/content/edit&id=123,"ConnectionRefusedError(111, 'Connection refused')",11769
+POST,/humhub/index.php?r=content/content/create,"ConnectionRefusedError(111, 'Connection refused')",11525
